@@ -2,7 +2,7 @@
 ---
 ## [RetinaNet](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/RetinaNet.pdf): Focal Loss for Dense Object Detection (ICCV 2017)
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection-papers/images/RetinaNet-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/RetinaNet.pdf)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/RetinaNet-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/RetinaNet.pdf)
 
 
 
@@ -12,9 +12,9 @@
 
 ---
 
-## [YOLOv1](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection-papers/YOLOv1.pdf): You Only Look Once: Unified, Real-Time Object Detection
+## [YOLOv1](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf): You Only Look Once: Unified, Real-Time Object Detection
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection-papers/images/YOLOv1_3.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection-papers/YOLOv1.pdf)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/YOLOv1_3.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf)
 
 
 [Paper](https://arxiv.org/abs/1506.02640) | [Darknet](http://pjreddie.com/yolo/)

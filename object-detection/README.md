@@ -14,7 +14,7 @@
 
 ## [YOLOv1](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf): You Only Look Once: Unified, Real-Time Object Detection
 
-[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/YOLOv1_3.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/YOLOv1.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf)
 
 
 [Paper](https://arxiv.org/abs/1506.02640) | [Darknet](http://pjreddie.com/yolo/)

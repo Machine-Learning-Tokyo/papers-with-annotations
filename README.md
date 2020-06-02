@@ -4,7 +4,7 @@
 This project compiles multiple (AI-related) papers with illustrations, annotations, and brief explanations of technical keywords, terms and previous studies which makes it easy to read the paper and follow the main idea.
 
 - [object detection papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/object-detection)
-- [ai and cognitive science related papers with annotations]
+- [ai and cognitive science related papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/ai-and-cognitive-science)
 
 Please feel free to open new PR (pull request) if you have such kind of annotated research papers (related to AI/ML/DL/neuroscience/Cognitive science). 
 

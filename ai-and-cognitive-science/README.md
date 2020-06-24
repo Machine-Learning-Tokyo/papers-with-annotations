@@ -3,12 +3,12 @@
 ---
 
 
-## [Deep Learning needs a prefrontal cortex: annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/ai-and-cognitive-science/DL%20needs%20a%20prefrontal%20cortex.pdf) (ICLR Workshop 2020)
+## Deep Learning needs a prefrontal cortex: annotation (ICLR Workshop 2020)
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/ai-and-cognitive-science/images/dl_needs_a_pfc_title.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/ai-and-cognitive-science/DL%20needs%20a%20prefrontal%20cortex.pdf)
 
-[Original paper](https://baicsworkshop.github.io/pdf/BAICS_10.pdf)
-
+📌 [Original paper](https://baicsworkshop.github.io/pdf/BAICS_10.pdf)
+📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/ai-and-cognitive-science/DL%20needs%20a%20prefrontal%20cortex.pdf)
 
 ---
 

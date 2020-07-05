@@ -1,3 +1,14 @@
+## M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
+
+[<p align="center"> <img src="https://github.com/j-cunanan/papers-with-annotations/blob/master/object-detection/images/m2det-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/RetinaNet.pdf)
+
+
+
+📌 [Original paper](https://arxiv.org/pdf/1811.04533.pdf)
+
+📌 [Paper with annotation](https://github.com/j-cunanan/papers-with-annotations/blob/master/object-detection/m2det.pdf)
+
+📌 **Implementations:** [M2DET pytorch](https://github.com/qijiezhao/M2Det)
 
 ---
 ## RetinaNet: Focal Loss for Dense Object Detection (ICCV 2017)

@@ -10,3 +10,7 @@ Please feel free to open new PR (pull request) if you have such kind of annotate
 
 
 Also, please give us a feedback by opening an issue on this repository. We are looking forward for your collaboration! 
+
+---
+
+Contributors: Alisher Abdulkhaev, Jayson Cunanan

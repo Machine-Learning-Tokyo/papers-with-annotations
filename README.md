@@ -14,6 +14,7 @@ Also, please give us a feedback by opening an issue on this repository. We are l
 ---
 
 📌 [www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/?unapproved=162210&moderation-hash=6e766ca8354bb4f681ca290eb6a65647#comment-162210)
+📌 [MLT Blog](https://machinelearningtokyo.com/2020/06/25/papers-with-annotations/)
 
 ---
 

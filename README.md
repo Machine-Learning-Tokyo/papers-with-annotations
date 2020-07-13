@@ -5,6 +5,7 @@ This project compiles multiple (AI-related) papers with illustrations, annotatio
 
 - [object detection papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/object-detection)
 - [ai and cognitive science related papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/ai-and-cognitive-science)
+- [unsupervised and semi-supervised learning](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/unsupervised-and-semi-supervised-learning)
 
 Please feel free to open new PR (pull request) if you have such kind of annotated research papers (related to AI, ML, DL, neuroscience, cognitive sciences). 
 

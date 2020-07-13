@@ -1,6 +1,6 @@
 ## M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network
 
-[<p align="center"> <img src="https://github.com/j-cunanan/papers-with-annotations/blob/master/object-detection/images/m2det-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/m2det.pdf)
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/m2det-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/m2det.pdf)
 
 
 

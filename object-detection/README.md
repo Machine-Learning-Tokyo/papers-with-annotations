@@ -3,8 +3,7 @@
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/images/m2det-architecture.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/m2det.pdf)
 
 
-
-📌 [Original paper](https://arxiv.org/pdf/1811.04533.pdf)
+📌 [Original paper](https://arxiv.org/pdf/1811.04533.pdf) | **Authors: Qijie Zhao, Tao Sheng,Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai and Haibin Ling**
 
 📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/m2det.pdf)
 
@@ -17,7 +16,7 @@
 
 
 
-📌 [Original paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
+📌 [Original paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) | **Authors: Tsung-Yi Lin Priya Goyal Ross Girshick Kaiming He Piotr Dolla ́r**
 
 📌 [Paper with annotation](https://github.com/alisher0717/machine-learning-notes/blob/master/object-detection-papers/RetinaNet.pdf)
 
@@ -31,6 +30,6 @@
 
 
 
-📌 [Original paper](https://arxiv.org/abs/1506.02640) | [Darknet](http://pjreddie.com/yolo/)
+📌 [Original paper](https://arxiv.org/abs/1506.02640) | **Authors: Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi** | [Darknet](http://pjreddie.com/yolo/)
 
 📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/object-detection/YOLOv1.pdf)

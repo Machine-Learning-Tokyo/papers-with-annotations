@@ -1,4 +1,4 @@
-# Unsupervised, semi-supervised and self-supervised training frameworks
+# Unsupervised, semi-supervised and self-supervised trainings
 
 ---
 ## Convolutional Clustering for Unsupervised Learning @ ICML 2016

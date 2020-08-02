@@ -11,4 +11,3 @@
 
 📌 **Implementations:** [Caffe (official)](https://github.com/implus/SKNet) | [PyTorch](https://github.com/pppLang/SKNet)
 
----

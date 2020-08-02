@@ -1,4 +1,4 @@
----
+
 ## Selective Kernel Networks (CVPR 2019)
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/sknets.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Selective-Kernel-Networks.pdf)

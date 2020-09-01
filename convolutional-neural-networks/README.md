@@ -1,5 +1,15 @@
-## Estimating Example Difficulty using Variance of Gradients
+## Estimating Example Difficulty using Variance of Gradients (ICML, WHI-2020 Workshop) 
 
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/vog.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Estimating-Example-Difficulty-using-VOG.pdf)
+
+
+
+📌 [Original paper](https://arxiv.org/pdf/2008.11600.pdf) | **Authors: Chirag Agarwal and
+Sara Hooker**
+
+📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Estimating-Example-Difficulty-using-VOG.pdf)
+
+📌 **Related papers:** [Continual Deep Learning by Functional Regularisation of Memorable Past](https://arxiv.org/pdf/2004.14070.pdf) | [Nagging Predictors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627163)
 
 
 ---

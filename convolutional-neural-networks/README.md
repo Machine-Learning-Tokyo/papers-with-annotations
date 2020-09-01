@@ -1,3 +1,8 @@
+## Estimating Example Difficulty using Variance of Gradients
+
+
+
+---
 
 ## Selective Kernel Networks (CVPR 2019)
 

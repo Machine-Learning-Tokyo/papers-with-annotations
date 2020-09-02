@@ -16,9 +16,9 @@ Also, please give us a feedback by opening an issue on this repository. We are l
 ---
 
 ## How are the annotations generated:
-**Software:** Notability App — import pdf to the App, make annotations (handwriten notes, import the figures, stickers, etc) and export the pdf.
+📌 **Software:** Notability App — import pdf to the App, make annotations (handwriten notes, import the figures, stickers, etc) and export the pdf.
 
-**Hardware:** iPad (6th generation) with Apple Pencil (1st generation). However any iPad which supports Apple pencil (or any Android tablets) should be fine. 
+📌 **Hardware:** iPad (6th generation) with Apple Pencil (1st generation). However any iPad which supports Apple pencil (or any Android tablets) should be fine. 
 
 ---
 

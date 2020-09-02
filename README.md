@@ -21,6 +21,8 @@ Also, please give us a feedback by opening an issue on this repository. We are l
 
 ---
 
+## Featured in:
+
 📌 [MLT's Blog](https://machinelearningtokyo.com/2020/06/25/papers-with-annotations/)
 
 📌 [David Ha's tweet](https://twitter.com/hardmaru/status/1275690178699542529?s=20)

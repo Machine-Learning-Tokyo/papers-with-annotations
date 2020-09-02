@@ -31,5 +31,6 @@ Also, please give us a feedback by opening an issue on this repository. We are l
 
 
 ---
-
-Contributors: Alisher Abdulkhaev, Jayson Cunanan
+## Contributors: 
+- Alisher Abdulkhaev
+- Jayson Cunanan

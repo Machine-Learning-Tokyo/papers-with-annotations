@@ -1,4 +1,10 @@
 # Papers with Annotations (PwA)
+
+<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/MLT_PwA.gif" width="500" /> </p>
+
+
+
+
 (created by Alisher Abdulkhaev. [Twitter](https://twitter.com/alisher_ai) | [LinkedIn](https://www.linkedin.com/in/alisher-abdulkhaev/) | [GitHub](https://github.com/alisher0717) | alisher@mltokyo.ai)
 
 This project compiles multiple (AI-related) papers with illustrations, annotations, and brief explanations for technical keywords, terms and previous studies which makes them easier to read and to get the main idea intuitively.

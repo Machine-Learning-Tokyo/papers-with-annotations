@@ -8,10 +8,11 @@
 
 This project compiles multiple (AI-related) papers with illustrations, annotations, and brief explanations for technical keywords, terms and previous studies which makes them easier to read and to get the main idea intuitively.
 
-- [object detection papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/object-detection)
-- [ai and cognitive science related papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/ai-and-cognitive-science)
-- [unsupervised and semi/self-supervised learning related papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/unsupervised-and-semi-supervised-learning)
-- [convolutional neural networks related papers with annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/README.md)
+- [object detection PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/object-detection)
+- [ai and cognitive science related PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/tree/master/ai-and-cognitive-science)
+- [unsupervised and semi/self-supervised learning related PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/unsupervised-and-semi-supervised-learning)
+- [convolutional neural networks related PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/README.md)
+- [miscellaneous PwA](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/miscellaneous/README.md)
 
 Please feel free to open new PR (pull request) if you have such kind of annotated research papers (related to AI, ML, DL, neuroscience, cognitive sciences). 
 

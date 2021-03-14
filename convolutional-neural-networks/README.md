@@ -1,3 +1,14 @@
+## Squeeze-and-Excitation Networks (CVPR 2018)
+
+[<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/squeeze-and-excitation-networks.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Squeeze-and-Excitation_Networks.pdf)
+
+📌 [Original paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) | **Authors: Jie Hu, Li Shen and
+Gang Sun**
+
+📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Squeeze-and-Excitation_Networks.pdf)
+
+
+
 ## Estimating Example Difficulty using Variance of Gradients (ICML, WHI-2020 Workshop) 
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/vog.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Estimating-Example-Difficulty-using-VOG.pdf)

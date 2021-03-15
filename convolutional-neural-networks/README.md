@@ -1,4 +1,4 @@
-## Squeeze-and-Excitation Networks (CVPR 2018)
+# Squeeze-and-Excitation Networks (CVPR 2018)
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/squeeze-and-excitation-networks.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Squeeze-and-Excitation_Networks.pdf)
 
@@ -7,9 +7,9 @@ Gang Sun**
 
 📌 [Paper with annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Squeeze-and-Excitation_Networks.pdf)
 
+---
 
-
-## Estimating Example Difficulty using Variance of Gradients (ICML, WHI-2020 Workshop) 
+# Estimating Example Difficulty using Variance of Gradients (ICML, WHI-2020 Workshop) 
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/vog.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Estimating-Example-Difficulty-using-VOG.pdf)
 
@@ -25,7 +25,7 @@ Sara Hooker**
 
 ---
 
-## Selective Kernel Networks (CVPR 2019)
+# Selective Kernel Networks (CVPR 2019)
 
 [<p align="center"> <img src="https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/images/sknets.png"/> </p>](https://github.com/Machine-Learning-Tokyo/papers-with-annotations/blob/master/convolutional-neural-networks/Selective-Kernel-Networks.pdf)
 

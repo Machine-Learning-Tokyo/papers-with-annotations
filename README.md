@@ -31,18 +31,26 @@ Also, please give us a feedback by opening an issue on this repository. We are l
 📌 **Hardware:** iPad (6th generation) with Apple Pencil (1st generation). However, any iPad (which supports Apple pencil) or any Android tablets should be fine. 
 
 </details>
----
 
-## Featured in:
+<details>
+ <summary><b>
+  Featured at:
+ </b></summary>
 
 📌 [MLT's Blog](https://machinelearningtokyo.com/2020/06/25/papers-with-annotations/)
 
 📌 [David Ha's tweet](https://twitter.com/hardmaru/status/1275690178699542529?s=20)
 
 📌 [www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/?unapproved=162210&moderation-hash=6e766ca8354bb4f681ca290eb6a65647#comment-162210)
+</details>
 
-
----
-## Contributors: 
+<details>
+ <summary><b>
+  Contributors: 
+ </b></summary>
+ 
 - Alisher Abdulkhaev
 - Jayson Cunanan
+</details>
+
+
